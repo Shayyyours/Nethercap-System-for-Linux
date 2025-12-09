@@ -1,10 +1,5 @@
-How to Install step ( recommend use arch linux or Kali linux )
+Recommend use Arch Linux, Kali Linux or like this
 
-- install node
-- install npm
-- install aircrack-ng
-- install python3
-- install networkmanager (for automatic clean the dns setup)
-- install dnsmasq
-- type "npm i"
-- type "sudo python3 attack.py"
+You can use this script without additional tools by using monitor mode if supported
+iw list | grep -i monitor
+
